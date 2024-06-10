@@ -10,3 +10,7 @@ SMPT_HOST
 SMPT_PORT 
 SMPT_MAIL 
 SMPT_PASSWORD 
+
+
+https://github.com/NISHIKASAH/photogram/assets/81612543/c887d18a-2313-4c00-8e42-6dc2e47eeef3
+
