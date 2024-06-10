@@ -12,7 +12,11 @@ SMPT_MAIL
 SMPT_PASSWORD 
 
 
-https://github.com/NISHIKASAH/photogram/assets/81612543/c887d18a-2313-4c00-8e42-6dc2e47eeef
+
+
+https://github.com/NISHIKASAH/photogram/assets/81612543/c8c33956-b2fd-48b2-8ad0-b18ec8cce36c
+
+
 
 
 ![loginpage](https://github.com/NISHIKASAH/photogram/assets/81612543/6f679eb8-6993-4c18-a5b8-9622f3c0c0ac)
